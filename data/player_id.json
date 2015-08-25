@@ -1,0 +1,2670 @@
+{
+  "players": {
+    "LAC": [
+      [
+        "201599",
+        "DeAndre Jordan"
+      ],
+      [
+        "201933",
+        "Blake Griffin"
+      ],
+      [
+        "101108",
+        "Chris Paul"
+      ],
+      [
+        "2440",
+        "Matt Barnes"
+      ],
+      [
+        "201150",
+        "Spencer Hawes"
+      ],
+      [
+        "201175",
+        "Glen Davis"
+      ],
+      [
+        "200755",
+        "JJ Redick"
+      ],
+      [
+        "2037",
+        "Jamal Crawford"
+      ],
+      [
+        "2045",
+        "Hedo Turkoglu"
+      ],
+      [
+        "203085",
+        "Austin Rivers"
+      ],
+      [
+        "200770",
+        "Jordan Farmar"
+      ],
+      [
+        "203493",
+        "Reggie Bullock"
+      ],
+      [
+        "202327",
+        "Ekpe Udoh"
+      ],
+      [
+        "202706",
+        "Jordan Hamilton"
+      ],
+      [
+        "201604",
+        "Chris Douglas-Roberts"
+      ],
+      [
+        "2563",
+        "Dahntay Jones"
+      ],
+      [
+        "101126",
+        "Nate Robinson"
+      ],
+      [
+        "203099",
+        "Jared Cunningham"
+      ],
+      [
+        "201991",
+        "Lester Hudson"
+      ],
+      [
+        "203912",
+        "CJ Wilcox"
+      ]
+    ],
+    "DET": [
+      [
+        "203083",
+        "Andre Drummond"
+      ],
+      [
+        "202328",
+        "Greg Monroe"
+      ],
+      [
+        "203484",
+        "Kentavious Caldwell-Pope"
+      ],
+      [
+        "2746",
+        "Josh Smith"
+      ],
+      [
+        "2406",
+        "Caron Butler"
+      ],
+      [
+        "201229",
+        "Anthony Tolliver"
+      ],
+      [
+        "201973",
+        "Jonas Jerebko"
+      ],
+      [
+        "202713",
+        "Kyle Singler"
+      ],
+      [
+        "202704",
+        "Reggie Jackson"
+      ],
+      [
+        "201943",
+        "Brandon Jennings"
+      ],
+      [
+        "201975",
+        "Jodie Meeks"
+      ],
+      [
+        "201571",
+        "D.J. Augustin"
+      ],
+      [
+        "2419",
+        "Tayshaun Prince"
+      ],
+      [
+        "201202",
+        "Joel Anthony"
+      ],
+      [
+        "203915",
+        "Spencer Dinwiddie"
+      ],
+      [
+        "200761",
+        "Shawne Williams"
+      ],
+      [
+        "201858",
+        "Cartier Martin"
+      ],
+      [
+        "101249",
+        "John Lucas III"
+      ],
+      [
+        "203113",
+        "Quincy Miller"
+      ],
+      [
+        "203540",
+        "Gigi Datome"
+      ]
+    ],
+    "CHI": [
+      [
+        "2200",
+        "Pau Gasol"
+      ],
+      [
+        "201149",
+        "Joakim Noah"
+      ],
+      [
+        "202703",
+        "Nikola Mirotic"
+      ],
+      [
+        "201959",
+        "Taj Gibson"
+      ],
+      [
+        "202710",
+        "Jimmy Butler"
+      ],
+      [
+        "2399",
+        "Mike Dunleavy"
+      ],
+      [
+        "203503",
+        "Tony Snell"
+      ],
+      [
+        "201166",
+        "Aaron Brooks"
+      ],
+      [
+        "201565",
+        "Derrick Rose"
+      ],
+      [
+        "2550",
+        "Kirk Hinrich"
+      ],
+      [
+        "202734",
+        "E'Twaun Moore"
+      ],
+      [
+        "203926",
+        "Doug McDermott"
+      ],
+      [
+        "1737",
+        "Nazr Mohammed"
+      ],
+      [
+        "203946",
+        "Cameron Bairstow"
+      ]
+    ],
+    "DAL": [
+      [
+        "2199",
+        "Tyson Chandler"
+      ],
+      [
+        "1717",
+        "Dirk Nowitzki"
+      ],
+      [
+        "202329",
+        "Al-Farouq Aminu"
+      ],
+      [
+        "202718",
+        "Chandler Parsons"
+      ],
+      [
+        "200765",
+        "Rajon Rondo"
+      ],
+      [
+        "101145",
+        "Monta Ellis"
+      ],
+      [
+        "2210",
+        "Richard Jefferson"
+      ],
+      [
+        "101111",
+        "Charlie Villanueva"
+      ],
+      [
+        "2734",
+        "Devin Harris"
+      ],
+      [
+        "200826",
+        "Jose Juan Barea"
+      ],
+      [
+        "201148",
+        "Brandan Wright"
+      ],
+      [
+        "2405",
+        "Amar'e Stoudemire"
+      ],
+      [
+        "202962",
+        "Greg Smith"
+      ],
+      [
+        "2749",
+        "Jameer Nelson"
+      ],
+      [
+        "203939",
+        "Dwight Powell"
+      ],
+      [
+        "203108",
+        "Bernard James"
+      ],
+      [
+        "203109",
+        "Jae Crowder"
+      ],
+      [
+        "101109",
+        "Raymond Felton"
+      ],
+      [
+        "203495",
+        "Ricky Ledo"
+      ]
+    ],
+    "ORL": [
+      [
+        "202696",
+        "Nikola Vucevic"
+      ],
+      [
+        "202699",
+        "Tobias Harris"
+      ],
+      [
+        "203901",
+        "Elfrid Payton"
+      ],
+      [
+        "203506",
+        "Victor Oladipo"
+      ],
+      [
+        "203473",
+        "Dewayne Dedmon"
+      ],
+      [
+        "101112",
+        "Channing Frye"
+      ],
+      [
+        "203124",
+        "Kyle O'Quinn"
+      ],
+      [
+        "203932",
+        "Aaron Gordon"
+      ],
+      [
+        "203095",
+        "Evan Fournier"
+      ],
+      [
+        "203090",
+        "Maurice Harkless"
+      ],
+      [
+        "203094",
+        "Andrew Nicholson"
+      ],
+      [
+        "2584",
+        "Willie Green"
+      ],
+      [
+        "2557",
+        "Luke Ridnour"
+      ],
+      [
+        "2732",
+        "Ben Gordon"
+      ],
+      [
+        "203906",
+        "Devyn Marble"
+      ]
+    ],
+    "UTA": [
+      [
+        "203497",
+        "Rudy Gobert"
+      ],
+      [
+        "202324",
+        "Derrick Favors"
+      ],
+      [
+        "202344",
+        "Trevor Booker"
+      ],
+      [
+        "202683",
+        "Enes Kanter"
+      ],
+      [
+        "202330",
+        "Gordon Hayward"
+      ],
+      [
+        "203504",
+        "Trey Burke"
+      ],
+      [
+        "204060",
+        "Joe Ingles"
+      ],
+      [
+        "202407",
+        "Elijah Millsap"
+      ],
+      [
+        "203957",
+        "Dante Exum"
+      ],
+      [
+        "203918",
+        "Rodney Hood"
+      ],
+      [
+        "202692",
+        "Alec Burks"
+      ],
+      [
+        "202379",
+        "Jeremy Evans"
+      ],
+      [
+        "204022",
+        "Jack Cooley"
+      ],
+      [
+        "203955",
+        "Bryce Cotton"
+      ],
+      [
+        "203187",
+        "Chris Johnson"
+      ],
+      [
+        "200779",
+        "Steve Novak"
+      ],
+      [
+        "203546",
+        "Ian Clark"
+      ],
+      [
+        "203565",
+        "Patrick Christopher"
+      ],
+      [
+        "203511",
+        "Grant Jerrett"
+      ],
+      [
+        "203968",
+        "Jerrelle Benimon"
+      ],
+      [
+        "202343",
+        "Elliot Williams"
+      ],
+      [
+        "203315",
+        "Toure' Murry"
+      ]
+    ],
+    "NOP": [
+      [
+        "201600",
+        "Omer Asik"
+      ],
+      [
+        "203076",
+        "Anthony Davis"
+      ],
+      [
+        "201936",
+        "Tyreke Evans"
+      ],
+      [
+        "201582",
+        "Alexis Ajinca"
+      ],
+      [
+        "201583",
+        "Ryan Anderson"
+      ],
+      [
+        "201967",
+        "Dante Cunningham"
+      ],
+      [
+        "201569",
+        "Eric Gordon"
+      ],
+      [
+        "202347",
+        "Quincy Pondexter"
+      ],
+      [
+        "201950",
+        "Jrue Holiday"
+      ],
+      [
+        "202337",
+        "Luke Babbitt"
+      ],
+      [
+        "203085",
+        "Austin Rivers"
+      ],
+      [
+        "203481",
+        "Jeff Withey"
+      ],
+      [
+        "202708",
+        "Norris Cole"
+      ],
+      [
+        "202690",
+        "Jimmer Fredette"
+      ],
+      [
+        "201962",
+        "Toney Douglas"
+      ],
+      [
+        "2422",
+        "John Salmons"
+      ],
+      [
+        "203489",
+        "Nate Wolters"
+      ],
+      [
+        "202343",
+        "Elliot Williams"
+      ],
+      [
+        "203893",
+        "Russ Smith"
+      ],
+      [
+        "203539",
+        "Gal Mekel"
+      ],
+      [
+        "203121",
+        "Darius Miller"
+      ]
+    ],
+    "SAC": [
+      [
+        "202326",
+        "DeMarcus Cousins"
+      ],
+      [
+        "201574",
+        "Jason Thompson"
+      ],
+      [
+        "200752",
+        "Rudy Gay"
+      ],
+      [
+        "2501",
+        "Reggie Evans"
+      ],
+      [
+        "201171",
+        "Carl Landry"
+      ],
+      [
+        "201956",
+        "Omri Casspi"
+      ],
+      [
+        "203463",
+        "Ben McLemore"
+      ],
+      [
+        "202682",
+        "Derrick Williams"
+      ],
+      [
+        "203492",
+        "Ray McCallum"
+      ],
+      [
+        "201954",
+        "Darren Collison"
+      ],
+      [
+        "200797",
+        "Ryan Hollins"
+      ],
+      [
+        "203917",
+        "Nik Stauskas"
+      ],
+      [
+        "1889",
+        "Andre Miller"
+      ],
+      [
+        "201196",
+        "Ramon Sessions"
+      ],
+      [
+        "203113",
+        "Quincy Miller"
+      ],
+      [
+        "204065",
+        "David Stockton"
+      ],
+      [
+        "204033",
+        "David Wear"
+      ],
+      [
+        "204021",
+        "Sim Bhullar"
+      ],
+      [
+        "203961",
+        "Eric Moreland"
+      ]
+    ],
+    "MEM": [
+      [
+        "2216",
+        "Zach Randolph"
+      ],
+      [
+        "201188",
+        "Marc Gasol"
+      ],
+      [
+        "201585",
+        "Kosta Koufos"
+      ],
+      [
+        "2754",
+        "Tony Allen"
+      ],
+      [
+        "201144",
+        "Mike Conley"
+      ],
+      [
+        "202720",
+        "Jon Leuer"
+      ],
+      [
+        "201145",
+        "Jeff Green"
+      ],
+      [
+        "201584",
+        "Courtney Lee"
+      ],
+      [
+        "2757",
+        "Beno Udrih"
+      ],
+      [
+        "1713",
+        "Vince Carter"
+      ],
+      [
+        "201979",
+        "Nick Calathes"
+      ],
+      [
+        "2419",
+        "Tayshaun Prince"
+      ],
+      [
+        "202347",
+        "Quincy Pondexter"
+      ],
+      [
+        "203210",
+        "JaMychal Green"
+      ],
+      [
+        "203950",
+        "Jarnell Stokes"
+      ],
+      [
+        "203919",
+        "Jordan Adams"
+      ],
+      [
+        "203893",
+        "Russ Smith"
+      ],
+      [
+        "203564",
+        "Kalin Lucas"
+      ],
+      [
+        "200748",
+        "Tyrus Thomas"
+      ]
+    ],
+    "POR": [
+      [
+        "200746",
+        "LaMarcus Aldridge"
+      ],
+      [
+        "2549",
+        "Chris Kaman"
+      ],
+      [
+        "201587",
+        "Nicolas Batum"
+      ],
+      [
+        "201577",
+        "Robin Lopez"
+      ],
+      [
+        "203081",
+        "Damian Lillard"
+      ],
+      [
+        "203086",
+        "Meyers Leonard"
+      ],
+      [
+        "202083",
+        "Wesley Matthews"
+      ],
+      [
+        "200777",
+        "Joel Freeland"
+      ],
+      [
+        "2581",
+        "Steve Blake"
+      ],
+      [
+        "203080",
+        "Thomas Robinson"
+      ],
+      [
+        "2748",
+        "Dorell Wright"
+      ],
+      [
+        "203468",
+        "CJ McCollum"
+      ],
+      [
+        "203459",
+        "Allen Crabbe"
+      ],
+      [
+        "201167",
+        "Arron Afflalo"
+      ],
+      [
+        "203115",
+        "Will Barton"
+      ],
+      [
+        "202087",
+        "Alonzo Gee"
+      ],
+      [
+        "201964",
+        "Victor Claver"
+      ],
+      [
+        "204025",
+        "Tim Frazier"
+      ]
+    ],
+    "CLE": [
+      [
+        "201567",
+        "Kevin Love"
+      ],
+      [
+        "202684",
+        "Tristan Thompson"
+      ],
+      [
+        "2544",
+        "LeBron James"
+      ],
+      [
+        "202389",
+        "Timofey Mozgov"
+      ],
+      [
+        "202681",
+        "Kyrie Irving"
+      ],
+      [
+        "1890",
+        "Shawn Marion"
+      ],
+      [
+        "2760",
+        "Anderson Varejao"
+      ],
+      [
+        "2747",
+        "J.R. Smith"
+      ],
+      [
+        "202697",
+        "Iman Shumpert"
+      ],
+      [
+        "203521",
+        "Matthew Dellavedova"
+      ],
+      [
+        "2034",
+        "Mike Miller"
+      ],
+      [
+        "2592",
+        "James Jones"
+      ],
+      [
+        "203079",
+        "Dion Waiters"
+      ],
+      [
+        "203925",
+        "Joe Harris"
+      ],
+      [
+        "2570",
+        "Kendrick Perkins"
+      ],
+      [
+        "2217",
+        "Brendan Haywood"
+      ],
+      [
+        "200811",
+        "Lou Amundson"
+      ],
+      [
+        "201985",
+        "A.J. Price"
+      ],
+      [
+        "203805",
+        "Will Cherry"
+      ],
+      [
+        "203945",
+        "Alex Kirk"
+      ]
+    ],
+    "WAS": [
+      [
+        "101162",
+        "Marcin Gortat"
+      ],
+      [
+        "2743",
+        "Kris Humphries"
+      ],
+      [
+        "202322",
+        "John Wall"
+      ],
+      [
+        "2403",
+        "Nene"
+      ],
+      [
+        "1718",
+        "Paul Pierce"
+      ],
+      [
+        "202338",
+        "Kevin Seraphin"
+      ],
+      [
+        "203078",
+        "Bradley Beal"
+      ],
+      [
+        "2400",
+        "Drew Gooden"
+      ],
+      [
+        "203490",
+        "Otto Porter"
+      ],
+      [
+        "2446",
+        "Rasual Butler"
+      ],
+      [
+        "202066",
+        "Garrett Temple"
+      ],
+      [
+        "1889",
+        "Andre Miller"
+      ],
+      [
+        "201196",
+        "Ramon Sessions"
+      ],
+      [
+        "201971",
+        "DeJuan Blair"
+      ],
+      [
+        "101110",
+        "Martell Webster"
+      ],
+      [
+        "101198",
+        "Will Bynum"
+      ],
+      [
+        "203318",
+        "Glen Rice Jr."
+      ],
+      [
+        "203315",
+        "Toure' Murry"
+      ]
+    ],
+    "SAS": [
+      [
+        "1495",
+        "Tim Duncan"
+      ],
+      [
+        "202695",
+        "Kawhi Leonard"
+      ],
+      [
+        "2564",
+        "Boris Diaw"
+      ],
+      [
+        "201980",
+        "Danny Green"
+      ],
+      [
+        "203382",
+        "Aron Baynes"
+      ],
+      [
+        "201168",
+        "Tiago Splitter"
+      ],
+      [
+        "1938",
+        "Manu Ginobili"
+      ],
+      [
+        "202709",
+        "Cory Joseph"
+      ],
+      [
+        "201158",
+        "Marco Belinelli"
+      ],
+      [
+        "2225",
+        "Tony Parker"
+      ],
+      [
+        "201965",
+        "Jeff Ayres"
+      ],
+      [
+        "2588",
+        "Matt Bonner"
+      ],
+      [
+        "201988",
+        "Patty Mills"
+      ],
+      [
+        "203937",
+        "Kyle Anderson"
+      ],
+      [
+        "201948",
+        "Austin Daye"
+      ],
+      [
+        "202130",
+        "Reggie Williams"
+      ],
+      [
+        "203210",
+        "JaMychal Green"
+      ]
+    ],
+    "TOR": [
+      [
+        "202685",
+        "Jonas Valanciunas"
+      ],
+      [
+        "101161",
+        "Amir Johnson"
+      ],
+      [
+        "202335",
+        "Patrick Patterson"
+      ],
+      [
+        "200768",
+        "Kyle Lowry"
+      ],
+      [
+        "201942",
+        "DeMar DeRozan"
+      ],
+      [
+        "201946",
+        "Tyler Hansbrough"
+      ],
+      [
+        "201949",
+        "James Johnson"
+      ],
+      [
+        "203082",
+        "Terrence Ross"
+      ],
+      [
+        "202349",
+        "Greivis Vasquez"
+      ],
+      [
+        "101150",
+        "Lou Williams"
+      ],
+      [
+        "101236",
+        "Charles Hayes"
+      ],
+      [
+        "202361",
+        "Landry Fields"
+      ],
+      [
+        "201880",
+        "Greg Stiemsma"
+      ],
+      [
+        "203512",
+        "Lucas Nogueira"
+      ],
+      [
+        "203998",
+        "Bruno Caboclo"
+      ]
+    ],
+    "TOTAL": [
+      [
+        "202683",
+        "Enes Kanter"
+      ],
+      [
+        "202389",
+        "Timofey Mozgov"
+      ],
+      [
+        "2746",
+        "Josh Smith"
+      ],
+      [
+        "201152",
+        "Thaddeus Young"
+      ],
+      [
+        "200765",
+        "Rajon Rondo"
+      ],
+      [
+        "204028",
+        "Tarik Black"
+      ],
+      [
+        "203487",
+        "Michael Carter-Williams"
+      ],
+      [
+        "201145",
+        "Jeff Green"
+      ],
+      [
+        "202704",
+        "Reggie Jackson"
+      ],
+      [
+        "2405",
+        "Amar'e Stoudemire"
+      ],
+      [
+        "201148",
+        "Brandan Wright"
+      ],
+      [
+        "2570",
+        "Kendrick Perkins"
+      ],
+      [
+        "203101",
+        "Miles Plumlee"
+      ],
+      [
+        "708",
+        "Kevin Garnett"
+      ],
+      [
+        "203080",
+        "Thomas Robinson"
+      ],
+      [
+        "201147",
+        "Corey Brewer"
+      ],
+      [
+        "203109",
+        "Jae Crowder"
+      ],
+      [
+        "201973",
+        "Jonas Jerebko"
+      ],
+      [
+        "201609",
+        "Goran Dragic"
+      ],
+      [
+        "200811",
+        "Lou Amundson"
+      ],
+      [
+        "201167",
+        "Arron Afflalo"
+      ],
+      [
+        "202688",
+        "Brandon Knight"
+      ],
+      [
+        "201229",
+        "Anthony Tolliver"
+      ],
+      [
+        "202697",
+        "Iman Shumpert"
+      ],
+      [
+        "2747",
+        "J.R. Smith"
+      ],
+      [
+        "2419",
+        "Tayshaun Prince"
+      ],
+      [
+        "203909",
+        "KJ McDaniels"
+      ],
+      [
+        "202347",
+        "Quincy Pondexter"
+      ],
+      [
+        "202713",
+        "Kyle Singler"
+      ],
+      [
+        "202498",
+        "Lance Thomas"
+      ],
+      [
+        "203079",
+        "Dion Waiters"
+      ],
+      [
+        "2590",
+        "Mo Williams"
+      ],
+      [
+        "203115",
+        "Will Barton"
+      ],
+      [
+        "203940",
+        "Adreian Payne"
+      ],
+      [
+        "201571",
+        "D.J. Augustin"
+      ],
+      [
+        "200761",
+        "Shawne Williams"
+      ],
+      [
+        "202708",
+        "Norris Cole"
+      ],
+      [
+        "1889",
+        "Andre Miller"
+      ],
+      [
+        "202738",
+        "Isaiah Thomas"
+      ],
+      [
+        "203085",
+        "Austin Rivers"
+      ],
+      [
+        "2749",
+        "Jameer Nelson"
+      ],
+      [
+        "201196",
+        "Ramon Sessions"
+      ],
+      [
+        "203120",
+        "Justin Hamilton"
+      ],
+      [
+        "202390",
+        "Gary Neal"
+      ],
+      [
+        "203143",
+        "Pablo Prigioni"
+      ],
+      [
+        "202397",
+        "Ish Smith"
+      ],
+      [
+        "203144",
+        "Alexey Shved"
+      ],
+      [
+        "202087",
+        "Alonzo Gee"
+      ],
+      [
+        "201977",
+        "Marcus Thornton"
+      ],
+      [
+        "203477",
+        "Isaiah Canaan"
+      ],
+      [
+        "203561",
+        "Brandon Davies"
+      ],
+      [
+        "201948",
+        "Austin Daye"
+      ],
+      [
+        "201580",
+        "JaVale McGee"
+      ],
+      [
+        "203187",
+        "Chris Johnson"
+      ],
+      [
+        "203493",
+        "Reggie Bullock"
+      ],
+      [
+        "203939",
+        "Dwight Powell"
+      ],
+      [
+        "101126",
+        "Nate Robinson"
+      ],
+      [
+        "203210",
+        "JaMychal Green"
+      ],
+      [
+        "203922",
+        "Glenn Robinson"
+      ],
+      [
+        "101183",
+        "Shavlik Randolph"
+      ],
+      [
+        "203495",
+        "Ricky Ledo"
+      ],
+      [
+        "203898",
+        "Tyler Ennis"
+      ],
+      [
+        "203489",
+        "Nate Wolters"
+      ],
+      [
+        "203584",
+        "Troy Daniels"
+      ],
+      [
+        "201985",
+        "A.J. Price"
+      ],
+      [
+        "203540",
+        "Gigi Datome"
+      ],
+      [
+        "203268",
+        "Jorge Gutierrez"
+      ],
+      [
+        "204025",
+        "Tim Frazier"
+      ],
+      [
+        "200779",
+        "Steve Novak"
+      ],
+      [
+        "203113",
+        "Quincy Miller"
+      ],
+      [
+        "203546",
+        "Ian Clark"
+      ],
+      [
+        "203511",
+        "Grant Jerrett"
+      ],
+      [
+        "204054",
+        "Zoran Dragic"
+      ],
+      [
+        "202343",
+        "Elliot Williams"
+      ],
+      [
+        "203893",
+        "Russ Smith"
+      ],
+      [
+        "203315",
+        "Toure' Murry"
+      ]
+    ],
+    "DEN": [
+      [
+        "202702",
+        "Kenneth Faried"
+      ],
+      [
+        "201163",
+        "Wilson Chandler"
+      ],
+      [
+        "201581",
+        "JJ Hickson"
+      ],
+      [
+        "203994",
+        "Jusuf Nurkic"
+      ],
+      [
+        "202389",
+        "Timofey Mozgov"
+      ],
+      [
+        "201951",
+        "Ty Lawson"
+      ],
+      [
+        "201568",
+        "Danilo Gallinari"
+      ],
+      [
+        "201167",
+        "Arron Afflalo"
+      ],
+      [
+        "201589",
+        "Darrell Arthur"
+      ],
+      [
+        "203115",
+        "Will Barton"
+      ],
+      [
+        "200751",
+        "Randy Foye"
+      ],
+      [
+        "203530",
+        "Joffrey Lauvergne"
+      ],
+      [
+        "202087",
+        "Alonzo Gee"
+      ],
+      [
+        "2749",
+        "Jameer Nelson"
+      ],
+      [
+        "203914",
+        "Gary Harris"
+      ],
+      [
+        "201580",
+        "JaVale McGee"
+      ],
+      [
+        "101126",
+        "Nate Robinson"
+      ],
+      [
+        "203475",
+        "Erick Green"
+      ],
+      [
+        "203546",
+        "Ian Clark"
+      ],
+      [
+        "203479",
+        "Jamaal Franklin"
+      ]
+    ],
+    "GSW": [
+      [
+        "203110",
+        "Draymond Green"
+      ],
+      [
+        "101106",
+        "Andrew Bogut"
+      ],
+      [
+        "203084",
+        "Harrison Barnes"
+      ],
+      [
+        "201939",
+        "Stephen Curry"
+      ],
+      [
+        "201578",
+        "Marreese Speights"
+      ],
+      [
+        "101135",
+        "David Lee"
+      ],
+      [
+        "2738",
+        "Andre Iguodala"
+      ],
+      [
+        "202691",
+        "Klay Thompson"
+      ],
+      [
+        "2733",
+        "Shaun Livingston"
+      ],
+      [
+        "203105",
+        "Festus Ezeli"
+      ],
+      [
+        "2571",
+        "Leandro Barbosa"
+      ],
+      [
+        "203200",
+        "Justin Holiday"
+      ],
+      [
+        "201575",
+        "Brandon Rush"
+      ],
+      [
+        "203949",
+        "James Michael McAdoo"
+      ],
+      [
+        "203136",
+        "Ognjen Kuzmic"
+      ]
+    ],
+    "MIN": [
+      [
+        "203476",
+        "Gorgui Dieng"
+      ],
+      [
+        "203952",
+        "Andrew Wiggins"
+      ],
+      [
+        "201152",
+        "Thaddeus Young"
+      ],
+      [
+        "201593",
+        "Nikola Pekovic"
+      ],
+      [
+        "203461",
+        "Anthony Bennett"
+      ],
+      [
+        "203897",
+        "Zach LaVine"
+      ],
+      [
+        "201978",
+        "Chase Budinger"
+      ],
+      [
+        "203940",
+        "Adreian Payne"
+      ],
+      [
+        "203498",
+        "Shabazz Muhammad"
+      ],
+      [
+        "2755",
+        "Kevin Martin"
+      ],
+      [
+        "203133",
+        "Robbie Hummel"
+      ],
+      [
+        "201937",
+        "Ricky Rubio"
+      ],
+      [
+        "2590",
+        "Mo Williams"
+      ],
+      [
+        "201147",
+        "Corey Brewer"
+      ],
+      [
+        "203120",
+        "Justin Hamilton"
+      ],
+      [
+        "202399",
+        "Jeff Adrien"
+      ],
+      [
+        "203485",
+        "Lorenzo Brown"
+      ],
+      [
+        "202390",
+        "Gary Neal"
+      ],
+      [
+        "708",
+        "Kevin Garnett"
+      ],
+      [
+        "202620",
+        "Arinze Onuaku"
+      ],
+      [
+        "203584",
+        "Troy Daniels"
+      ],
+      [
+        "203922",
+        "Glenn Robinson"
+      ],
+      [
+        "203930",
+        "Sean Kilpatrick"
+      ],
+      [
+        "203545",
+        "Miroslav Raduljica"
+      ],
+      [
+        "101142",
+        "Ronny Turiaf"
+      ]
+    ],
+    "PHI": [
+      [
+        "203457",
+        "Nerlens Noel"
+      ],
+      [
+        "203156",
+        "Henry Sims"
+      ],
+      [
+        "201601",
+        "Luc Mbah a Moute"
+      ],
+      [
+        "203496",
+        "Robert Covington"
+      ],
+      [
+        "203487",
+        "Michael Carter-Williams"
+      ],
+      [
+        "203924",
+        "Jerami Grant"
+      ],
+      [
+        "203909",
+        "KJ McDaniels"
+      ],
+      [
+        "203138",
+        "Hollis Thompson"
+      ],
+      [
+        "203128",
+        "Furkan Aldemir"
+      ],
+      [
+        "203080",
+        "Thomas Robinson"
+      ],
+      [
+        "203960",
+        "JaKarr Sampson"
+      ],
+      [
+        "203100",
+        "Tony Wroten"
+      ],
+      [
+        "203561",
+        "Brandon Davies"
+      ],
+      [
+        "202397",
+        "Ish Smith"
+      ],
+      [
+        "2202",
+        "Jason Richardson"
+      ],
+      [
+        "202952",
+        "Malcolm Thomas"
+      ],
+      [
+        "203477",
+        "Isaiah Canaan"
+      ],
+      [
+        "203187",
+        "Chris Johnson"
+      ],
+      [
+        "203922",
+        "Glenn Robinson"
+      ],
+      [
+        "203144",
+        "Alexey Shved"
+      ],
+      [
+        "204079",
+        "Drew Gordon"
+      ],
+      [
+        "203580",
+        "Larry Drew II"
+      ],
+      [
+        "204025",
+        "Tim Frazier"
+      ],
+      [
+        "201580",
+        "JaVale McGee"
+      ],
+      [
+        "202723",
+        "Malcolm Lee"
+      ]
+    ],
+    "LAL": [
+      [
+        "202334",
+        "Ed Davis"
+      ],
+      [
+        "201941",
+        "Jordan Hill"
+      ],
+      [
+        "2430",
+        "Carlos Boozer"
+      ],
+      [
+        "202325",
+        "Wesley Johnson"
+      ],
+      [
+        "204028",
+        "Tarik Black"
+      ],
+      [
+        "203135",
+        "Robert Sacre"
+      ],
+      [
+        "201961",
+        "Wayne Ellington"
+      ],
+      [
+        "977",
+        "Kobe Bryant"
+      ],
+      [
+        "202391",
+        "Jeremy Lin"
+      ],
+      [
+        "203903",
+        "Jordan Clarkson"
+      ],
+      [
+        "203527",
+        "Ryan Kelly"
+      ],
+      [
+        "201156",
+        "Nick Young"
+      ],
+      [
+        "101179",
+        "Ronnie Price"
+      ],
+      [
+        "203913",
+        "Jabari Brown"
+      ],
+      [
+        "202779",
+        "Dwight Buycks"
+      ],
+      [
+        "203505",
+        "Vander Blue"
+      ],
+      [
+        "202333",
+        "Xavier Henry"
+      ],
+      [
+        "203944",
+        "Julius Randle"
+      ]
+    ],
+    "ATL": [
+      [
+        "200794",
+        "Paul Millsap"
+      ],
+      [
+        "201143",
+        "Al Horford"
+      ],
+      [
+        "201960",
+        "DeMarre Carroll"
+      ],
+      [
+        "2594",
+        "Kyle Korver"
+      ],
+      [
+        "200757",
+        "Thabo Sefolosha"
+      ],
+      [
+        "203145",
+        "Kent Bazemore"
+      ],
+      [
+        "203118",
+        "Mike Scott"
+      ],
+      [
+        "203544",
+        "Pero Antic"
+      ],
+      [
+        "201952",
+        "Jeff Teague"
+      ],
+      [
+        "203471",
+        "Dennis Schroder"
+      ],
+      [
+        "203488",
+        "Mike Muscala"
+      ],
+      [
+        "1882",
+        "Elton Brand"
+      ],
+      [
+        "202714",
+        "Shelvin Mack"
+      ],
+      [
+        "203098",
+        "John Jenkins"
+      ],
+      [
+        "201948",
+        "Austin Daye"
+      ],
+      [
+        "203940",
+        "Adreian Payne"
+      ]
+    ],
+    "CHA": [
+      [
+        "2744",
+        "Al Jefferson"
+      ],
+      [
+        "203077",
+        "Michael Kidd-Gilchrist"
+      ],
+      [
+        "202687",
+        "Bismack Biyombo"
+      ],
+      [
+        "101107",
+        "Marvin Williams"
+      ],
+      [
+        "203469",
+        "Cody Zeller"
+      ],
+      [
+        "202362",
+        "Lance Stephenson"
+      ],
+      [
+        "201945",
+        "Gerald Henderson"
+      ],
+      [
+        "202689",
+        "Kemba Walker"
+      ],
+      [
+        "101131",
+        "Jason Maxiell"
+      ],
+      [
+        "203148",
+        "Brian Roberts"
+      ],
+      [
+        "202390",
+        "Gary Neal"
+      ],
+      [
+        "203798",
+        "PJ Hairston"
+      ],
+      [
+        "203943",
+        "Noah Vonleh"
+      ],
+      [
+        "2590",
+        "Mo Williams"
+      ],
+      [
+        "203106",
+        "Jeff Taylor"
+      ],
+      [
+        "203584",
+        "Troy Daniels"
+      ],
+      [
+        "2457",
+        "Jannero Pargo"
+      ]
+    ],
+    "IND": [
+      [
+        "201579",
+        "Roy Hibbert"
+      ],
+      [
+        "2449",
+        "Luis Scola"
+      ],
+      [
+        "2561",
+        "David West"
+      ],
+      [
+        "101133",
+        "Ian Mahinmi"
+      ],
+      [
+        "202730",
+        "Lavoy Allen"
+      ],
+      [
+        "203524",
+        "Solomon Hill"
+      ],
+      [
+        "201155",
+        "Rodney Stuckey"
+      ],
+      [
+        "101139",
+        "CJ Miles"
+      ],
+      [
+        "201588",
+        "George Hill"
+      ],
+      [
+        "201228",
+        "CJ Watson"
+      ],
+      [
+        "202388",
+        "Donald Sloan"
+      ],
+      [
+        "203142",
+        "Chris Copeland"
+      ],
+      [
+        "204014",
+        "Damjan Rudez"
+      ],
+      [
+        "203963",
+        "Shayne Whittington"
+      ],
+      [
+        "202331",
+        "Paul George"
+      ],
+      [
+        "201985",
+        "A.J. Price"
+      ]
+    ],
+    "MIL": [
+      [
+        "203507",
+        "Giannis Antetokounmpo"
+      ],
+      [
+        "2585",
+        "Zaza Pachulia"
+      ],
+      [
+        "203114",
+        "Khris Middleton"
+      ],
+      [
+        "203089",
+        "John Henson"
+      ],
+      [
+        "101141",
+        "Ersan Ilyasova"
+      ],
+      [
+        "202688",
+        "Brandon Knight"
+      ],
+      [
+        "201162",
+        "Jared Dudley"
+      ],
+      [
+        "201573",
+        "Jerryd Bayless"
+      ],
+      [
+        "201564",
+        "O.J. Mayo"
+      ],
+      [
+        "202336",
+        "Larry Sanders"
+      ],
+      [
+        "203953",
+        "Jabari Parker"
+      ],
+      [
+        "203487",
+        "Michael Carter-Williams"
+      ],
+      [
+        "203948",
+        "Johnny O'Bryant"
+      ],
+      [
+        "203101",
+        "Miles Plumlee"
+      ],
+      [
+        "203898",
+        "Tyler Ennis"
+      ],
+      [
+        "203088",
+        "Kendall Marshall"
+      ],
+      [
+        "203268",
+        "Jorge Gutierrez"
+      ],
+      [
+        "2030",
+        "Kenyon Martin"
+      ],
+      [
+        "203489",
+        "Nate Wolters"
+      ],
+      [
+        "203187",
+        "Chris Johnson"
+      ]
+    ],
+    "BKN": [
+      [
+        "201572",
+        "Brook Lopez"
+      ],
+      [
+        "203486",
+        "Mason Plumlee"
+      ],
+      [
+        "2207",
+        "Joe Johnson"
+      ],
+      [
+        "708",
+        "Kevin Garnett"
+      ],
+      [
+        "101127",
+        "Jarrett Jack"
+      ],
+      [
+        "101114",
+        "Deron Williams"
+      ],
+      [
+        "202711",
+        "Bojan Bogdanovic"
+      ],
+      [
+        "101187",
+        "Alan Anderson"
+      ],
+      [
+        "203141",
+        "Mirza Teletovic"
+      ],
+      [
+        "201152",
+        "Thaddeus Young"
+      ],
+      [
+        "203928",
+        "Cory Jefferson"
+      ],
+      [
+        "203900",
+        "Markel Brown"
+      ],
+      [
+        "202366",
+        "Jerome Jordan"
+      ],
+      [
+        "203508",
+        "Sergey Karasev"
+      ],
+      [
+        "202721",
+        "Darius Morris"
+      ],
+      [
+        "201947",
+        "Earl Clark"
+      ],
+      [
+        "203561",
+        "Brandon Davies"
+      ],
+      [
+        "1905",
+        "Andrei Kirilenko"
+      ],
+      [
+        "203268",
+        "Jorge Gutierrez"
+      ]
+    ],
+    "OKC": [
+      [
+        "203500",
+        "Steven Adams"
+      ],
+      [
+        "201586",
+        "Serge Ibaka"
+      ],
+      [
+        "201566",
+        "Russell Westbrook"
+      ],
+      [
+        "202683",
+        "Enes Kanter"
+      ],
+      [
+        "2570",
+        "Kendrick Perkins"
+      ],
+      [
+        "203460",
+        "Andre Roberson"
+      ],
+      [
+        "2555",
+        "Nick Collison"
+      ],
+      [
+        "202704",
+        "Reggie Jackson"
+      ],
+      [
+        "201627",
+        "Anthony Morrow"
+      ],
+      [
+        "201142",
+        "Kevin Durant"
+      ],
+      [
+        "203956",
+        "Mitch McGary"
+      ],
+      [
+        "203079",
+        "Dion Waiters"
+      ],
+      [
+        "203087",
+        "Jeremy Lamb"
+      ],
+      [
+        "203103",
+        "Perry Jones"
+      ],
+      [
+        "202498",
+        "Lance Thomas"
+      ],
+      [
+        "201571",
+        "D.J. Augustin"
+      ],
+      [
+        "202713",
+        "Kyle Singler"
+      ],
+      [
+        "2742",
+        "Sebastian Telfair"
+      ],
+      [
+        "202397",
+        "Ish Smith"
+      ],
+      [
+        "200779",
+        "Steve Novak"
+      ],
+      [
+        "203511",
+        "Grant Jerrett"
+      ]
+    ],
+    "PHX": [
+      [
+        "202693",
+        "Markieff Morris"
+      ],
+      [
+        "200782",
+        "PJ Tucker"
+      ],
+      [
+        "203458",
+        "Alex Len"
+      ],
+      [
+        "202339",
+        "Eric Bledsoe"
+      ],
+      [
+        "202694",
+        "Marcus Morris"
+      ],
+      [
+        "203101",
+        "Miles Plumlee"
+      ],
+      [
+        "201148",
+        "Brandan Wright"
+      ],
+      [
+        "101123",
+        "Gerald Green"
+      ],
+      [
+        "201609",
+        "Goran Dragic"
+      ],
+      [
+        "202738",
+        "Isaiah Thomas"
+      ],
+      [
+        "203933",
+        "TJ Warren"
+      ],
+      [
+        "203462",
+        "Archie Goodwin"
+      ],
+      [
+        "201229",
+        "Anthony Tolliver"
+      ],
+      [
+        "2853",
+        "Earl Barron"
+      ],
+      [
+        "101183",
+        "Shavlik Randolph"
+      ],
+      [
+        "202688",
+        "Brandon Knight"
+      ],
+      [
+        "201977",
+        "Marcus Thornton"
+      ],
+      [
+        "203493",
+        "Reggie Bullock"
+      ],
+      [
+        "203898",
+        "Tyler Ennis"
+      ],
+      [
+        "204054",
+        "Zoran Dragic"
+      ],
+      [
+        "202077",
+        "Jerel McNeal"
+      ],
+      [
+        "201985",
+        "A.J. Price"
+      ],
+      [
+        "203552",
+        "Seth Curry"
+      ]
+    ],
+    "MIA": [
+      [
+        "202355",
+        "Hassan Whiteside"
+      ],
+      [
+        "2736",
+        "Luol Deng"
+      ],
+      [
+        "2547",
+        "Chris Bosh"
+      ],
+      [
+        "2365",
+        "Chris Andersen"
+      ],
+      [
+        "2617",
+        "Udonis Haslem"
+      ],
+      [
+        "2548",
+        "Dwyane Wade"
+      ],
+      [
+        "201596",
+        "Mario Chalmers"
+      ],
+      [
+        "203516",
+        "James Ennis"
+      ],
+      [
+        "200761",
+        "Shawne Williams"
+      ],
+      [
+        "203894",
+        "Shabazz Napier"
+      ],
+      [
+        "202708",
+        "Norris Cole"
+      ],
+      [
+        "201563",
+        "Michael Beasley"
+      ],
+      [
+        "201609",
+        "Goran Dragic"
+      ],
+      [
+        "201611",
+        "Henry Walker"
+      ],
+      [
+        "204020",
+        "Tyler Johnson"
+      ],
+      [
+        "101122",
+        "Danny Granger"
+      ],
+      [
+        "203120",
+        "Justin Hamilton"
+      ],
+      [
+        "201177",
+        "Josh McRoberts"
+      ],
+      [
+        "204054",
+        "Zoran Dragic"
+      ],
+      [
+        "203958",
+        "Andre Dawkins"
+      ],
+      [
+        "200769",
+        "Shannon Brown"
+      ]
+    ],
+    "BOS": [
+      [
+        "203092",
+        "Tyler Zeller"
+      ],
+      [
+        "203096",
+        "Jared Sullinger"
+      ],
+      [
+        "202323",
+        "Evan Turner"
+      ],
+      [
+        "101138",
+        "Brandon Bass"
+      ],
+      [
+        "203482",
+        "Kelly Olynyk"
+      ],
+      [
+        "203109",
+        "Jae Crowder"
+      ],
+      [
+        "202340",
+        "Avery Bradley"
+      ],
+      [
+        "203935",
+        "Marcus Smart"
+      ],
+      [
+        "200765",
+        "Rajon Rondo"
+      ],
+      [
+        "201145",
+        "Jeff Green"
+      ],
+      [
+        "201973",
+        "Jonas Jerebko"
+      ],
+      [
+        "203515",
+        "Phil Pressey"
+      ],
+      [
+        "201977",
+        "Marcus Thornton"
+      ],
+      [
+        "2222",
+        "Gerald Wallace"
+      ],
+      [
+        "202738",
+        "Isaiah Thomas"
+      ],
+      [
+        "203923",
+        "James Young"
+      ],
+      [
+        "2419",
+        "Tayshaun Prince"
+      ],
+      [
+        "203540",
+        "Gigi Datome"
+      ],
+      [
+        "2749",
+        "Jameer Nelson"
+      ],
+      [
+        "201148",
+        "Brandan Wright"
+      ],
+      [
+        "101183",
+        "Shavlik Randolph"
+      ],
+      [
+        "203939",
+        "Dwight Powell"
+      ]
+    ],
+    "HOU": [
+      [
+        "201935",
+        "James Harden"
+      ],
+      [
+        "2772",
+        "Trevor Ariza"
+      ],
+      [
+        "2730",
+        "Dwight Howard"
+      ],
+      [
+        "202700",
+        "Donatas Motiejunas"
+      ],
+      [
+        "2746",
+        "Josh Smith"
+      ],
+      [
+        "201595",
+        "Joey Dorsey"
+      ],
+      [
+        "201976",
+        "Patrick Beverley"
+      ],
+      [
+        "203093",
+        "Terrence Jones"
+      ],
+      [
+        "201147",
+        "Corey Brewer"
+      ],
+      [
+        "204028",
+        "Tarik Black"
+      ],
+      [
+        "203123",
+        "Kostas Papanikolaou"
+      ],
+      [
+        "1891",
+        "Jason Terry"
+      ],
+      [
+        "203910",
+        "Nick Johnson"
+      ],
+      [
+        "203143",
+        "Pablo Prigioni"
+      ],
+      [
+        "203991",
+        "Clint Capela"
+      ],
+      [
+        "203477",
+        "Isaiah Canaan"
+      ],
+      [
+        "101128",
+        "Francisco Garcia"
+      ],
+      [
+        "203584",
+        "Troy Daniels"
+      ],
+      [
+        "203909",
+        "KJ McDaniels"
+      ],
+      [
+        "203144",
+        "Alexey Shved"
+      ]
+    ],
+    "NYK": [
+      [
+        "202332",
+        "Cole Aldrich"
+      ],
+      [
+        "201160",
+        "Jason Smith"
+      ],
+      [
+        "203112",
+        "Quincy Acy"
+      ],
+      [
+        "2546",
+        "Carmelo Anthony"
+      ],
+      [
+        "2405",
+        "Amar'e Stoudemire"
+      ],
+      [
+        "200811",
+        "Lou Amundson"
+      ],
+      [
+        "204038",
+        "Langston Galloway"
+      ],
+      [
+        "203499",
+        "Shane Larkin"
+      ],
+      [
+        "2223",
+        "Samuel Dalembert"
+      ],
+      [
+        "203501",
+        "Tim Hardaway Jr."
+      ],
+      [
+        "200745",
+        "Andrea Bargnani"
+      ],
+      [
+        "101181",
+        "Jose Calderon"
+      ],
+      [
+        "202498",
+        "Lance Thomas"
+      ],
+      [
+        "204037",
+        "Travis Wear"
+      ],
+      [
+        "203921",
+        "Cleanthony Early"
+      ],
+      [
+        "202697",
+        "Iman Shumpert"
+      ],
+      [
+        "203143",
+        "Pablo Prigioni"
+      ],
+      [
+        "203144",
+        "Alexey Shved"
+      ],
+      [
+        "2747",
+        "J.R. Smith"
+      ],
+      [
+        "203495",
+        "Ricky Ledo"
+      ]
+    ]
+  }
+}
